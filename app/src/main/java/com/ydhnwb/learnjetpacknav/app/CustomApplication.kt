@@ -2,6 +2,8 @@ package com.ydhnwb.learnjetpacknav.app
 
 import android.app.Application
 import android.preference.PreferenceManager
+import androidx.compose.material3.dynamicDarkColorScheme
+import androidx.compose.material3.dynamicLightColorScheme
 import com.ydhnwb.learnjetpacknav.app.theme.AuthenticationManager
 import com.zhuinden.simplestack.GlobalServices
 import com.zhuinden.simplestackextensions.servicesktx.add
